@@ -1,0 +1,47 @@
+.wrapper {
+  /* Layout Properties */
+    top: 0px;
+    left: 0px;
+    /* UI Properties */
+    background: #F6F7F8 0% 0% no-repeat padding-box;
+    color: #072635;
+    font-family: "Manrope", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: Regular;
+    font-size: 14px;
+}
+
+.header {
+  /* Layout Properties */
+  height: 72px;
+
+  /* UI Properties */
+  background: var(--unnamed-color-ffffff) 0% 0% no-repeat padding-box;
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+  border-radius: 70px;
+}
+
+.logo {
+  /* Layout Properties */
+  top: 30px;
+  left: 50px;
+  width: 211px;
+  height: 48px;
+}
+
+.content {
+  /* Layout Properties */
+}
+
+.content h1 {
+  /* UI Properties */
+  font-size: 3.6rem;
+  font-weight: 700;
+}
+
+.content p {
+  /* UI Properties */
+  font-size: 1.2rem;
+  font-weight: 400;
+  opacity: 0.5;
+}
